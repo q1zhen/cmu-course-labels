@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name	CMU Course Labels
 // @namespace	http://tampermonkey.net/
-// @version	0.1
+// @version	0.2
 // @match	*://*.cmu.edu/*
 // @match	*://cmu.edu/*
-// @match	*://discord.com/channels/1429981529123324037/*
 // @grant	none
 // @run-at	document-idle
 // ==/UserScript==
