@@ -1,6 +1,7 @@
 # CMU Course Labels
 
 A userscript that renders CMU course codes as labelled badges on CMU websites.
+
 You need to have a [**userscript manager**](https://github.com/awesome-scripts/awesome-userscripts#compatibility) to install this script.
 
 | [Install](https://github.com/q1zhen/cmu-course-labels/raw/refs/heads/main/main.user.js) |
