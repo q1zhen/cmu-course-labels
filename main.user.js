@@ -73,7 +73,7 @@
 				align-items: stretch;
 				vertical-align: middle;
 				margin: 0 2px;
-				border-radius: 0px;
+				border-radius: 4px;
 				border: none !important;
 				overflow: hidden;
 				font: 600 0.75em/1.6 "Open Sans", Helvetica, sans-serif;
