@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name	CMU Course Labels
 // @namespace	http://tampermonkey.net/
-// @version	0.2
+// @version	0.3
 // @match	*://*.cmu.edu/*
 // @match	*://cmu.edu/*
 // @grant	none
